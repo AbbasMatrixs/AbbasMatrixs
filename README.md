@@ -13,7 +13,7 @@
 
 - **Languages**: Python, SQL, C++
 - **Web**: HTML, CSS, & Javascript
-- **𝑳𝒊𝒃𝒓𝒂𝒓𝒊𝒆𝒔/Tools**: : NumPy, Pandas, Matplotlib Pyspark, Git, GitHub, VS Code,
+- **𝑳𝒊𝒃𝒓𝒂𝒓𝒊𝒆𝒔/Tools**: : NumPy, Pandas, Matplotlib, Git, GitHub, VS Code, cryptool
 
 ---
 
