@@ -4,7 +4,7 @@
 
 ## 🚀 About Me
 
-- 🌱 I’m currently explored such of these... **Python** **C** **C++** **MYSQL** **HTML5** **CSS** **JavaScript**  **AWS Plateform** **Core Cybersecurity**a
+- 🌱 I’m currently explored such of these... **Python** **C** **C++** **MYSQL** **HTML5** **CSS** **JavaScript**  **AWS Plateform** **Core Cybersecurity**
 
 ---
 
