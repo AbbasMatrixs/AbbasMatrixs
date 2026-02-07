@@ -4,15 +4,14 @@
 
 ## 🚀 About Me
 
-- 🌱 I’m currently learning **Python**, **SQL**
-- 🌐 I’m also working with **Cloud Data Engineering** and learning how to play with Data
+- 🌱 I’m currently explored such of these... **Python** **C** **C++** **MYSQL** **HTML5** **CSS** **JavaScript**  **AWS Plateform** **Core Cybersecurity**a
 
 ---
 
 ## 🛠️ Tech Stack
 
 - **Languages**: Python, SQL, C++
-- **Web**: HTML, CSS, & Javascript
+- **Web**: HTML5, CSS, & Javascript
 - **𝑳𝒊𝒃𝒓𝒂𝒓𝒊𝒆𝒔/Tools**: : NumPy, Pandas, Matplotlib, Git, GitHub, VS Code, cryptool
 
 ---
