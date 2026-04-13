@@ -1,6 +1,6 @@
 # 👋 Hi there, I'm Hassan Abbas!
 
-🎓 I'm a passionate **BS Software Engineering** student, currently exploring the world of web development, Cloud Data Engigneering, and Cybersecurity and AI.
+🎓 I'm a passionate **BS Software Engineering** student, currently exploring the world of web development, Cloud Data Engigneering, Cybersecurity and AI.
 
 ## 🚀 About Me
 
@@ -19,7 +19,7 @@
 ## 🧠 Currently Exploring
 
 - Cloud Data Engineering
-- 💡 Machine Learning & AI
+- 💡 Artificial Intelligence
 - 🔐 Cybersecurity
  
 ---
